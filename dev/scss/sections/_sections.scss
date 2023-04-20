@@ -5,7 +5,7 @@
     .grid-content {
         display: grid;
         grid-template-areas: ". section .";
-        grid-template-columns: auto 1200px auto;
+        grid-template-columns: auto 600px auto;
 
         >section {
             grid-area: section;
@@ -13,34 +13,17 @@
 
             img {
                 margin-bottom: 10px;
-                width: 100%;
+                width: 15%;
             }
 
-            article {
-                display: grid;
-                grid-template-areas: ". section-content .";
-                grid-template-columns: auto 800px auto;
+            h1 {
+                border-bottom: 1px solid $orange;
+                margin-bottom: 20px;
+                padding-bottom: 10px;
+            }
 
-                >div {
-                    grid-area: section-content;
-
-                    h1 {
-                        border-bottom: 1px solid $green;
-                        margin-bottom: 20px;
-                        padding-bottom: 10px;
-                    }
-
-                    p {
-                        line-height: rem-calc(25);
-                    }
-
-                    .green-call-out {
-                        background-color: $green;
-                        color: $white;
-                        margin-top: 10px;
-                        padding: 10px;
-                    }
-                }
+            p {
+                line-height: rem-calc(25);
             }
         }
     }

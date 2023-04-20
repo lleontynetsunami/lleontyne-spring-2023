@@ -9,7 +9,7 @@ html {
 /* =============
     Variables
 ============= */
-/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
 /**
@@ -29,12 +29,6 @@ html {
  */
 body {
   margin: 0; }
-
-/**
- * Render the `main` element consistently in IE.
- */
-main {
-  display: block; }
 
 /**
  * Correct the font size and margin on `h1` elements within `section` and
@@ -389,37 +383,26 @@ textarea {
 .sections .grid-content {
   display: grid;
   grid-template-areas: ". section .";
-  grid-template-columns: auto 1200px auto; }
+  grid-template-columns: auto 600px auto; }
   .sections .grid-content > section {
     grid-area: section;
     text-align: center; }
     .sections .grid-content > section img {
       margin-bottom: 10px;
-      width: 100%; }
-    .sections .grid-content > section article {
-      display: grid;
-      grid-template-areas: ". section-content .";
-      grid-template-columns: auto 800px auto; }
-      .sections .grid-content > section article > div {
-        grid-area: section-content; }
-        .sections .grid-content > section article > div h1 {
-          border-bottom: 1px solid #86d334;
-          margin-bottom: 20px;
-          padding-bottom: 10px; }
-        .sections .grid-content > section article > div p {
-          line-height: 1.5625rem; }
-        .sections .grid-content > section article > div .green-call-out {
-          background-color: #86d334;
-          color: #fff;
-          margin-top: 10px;
-          padding: 10px; }
+      width: 15%; }
+    .sections .grid-content > section h1 {
+      border-bottom: 1px solid #e54f30;
+      margin-bottom: 20px;
+      padding-bottom: 10px; }
+    .sections .grid-content > section p {
+      line-height: 1.5625rem; }
 
 /* =============
    Section 1
 ============= */
 #section-1 {
   align-items: center;
-  background-color: #86d334;
+  background-color: #191b20;
   display: flex;
   justify-content: center; }
   #section-1 .grid-content {
@@ -442,16 +425,40 @@ textarea {
 /* =============
     Section 2
 ============= */
+#section-2 img {
+  width: 100%; }
+
 /* =============
     Section 3
 ============= */
 #section-3 {
   background-color: #eeeeee; }
-  #section-3 .grid-content img {
-    margin-bottom: 0; }
-  #section-3 .grid-content .content-container > div {
+  #section-3 .grid-content > section img {
+    width: 20%; }
+  #section-3 .grid-content > section article h3 {
+    font-size: 1.25rem;
+    margin-bottom: 10px; }
+  #section-3 .grid-content > section article:nth-child(4) {
     background-color: #fff;
-    padding: 10px; }
+    margin-top: 20px;
+    padding: 20px 0 0 0; }
+    #section-3 .grid-content > section article:nth-child(4) p:nth-child(2) {
+      background-color: #e54f30;
+      color: #fff;
+      padding: 10px; }
+    #section-3 .grid-content > section article:nth-child(4) p:nth-child(3) {
+      background-color: #191b20;
+      color: #fff;
+      font-weight: 600;
+      padding: 20px; }
+  #section-3 .grid-content > section article:nth-child(5) {
+    margin-top: 40px; }
+    #section-3 .grid-content > section article:nth-child(5) p:nth-child(2) {
+      background-color: #191b20;
+      color: #fff;
+      font-size: 0.671875rem;
+      font-weight: 400;
+      padding: 20px 10px; }
 
 /* =============
     Section 4
@@ -459,38 +466,48 @@ textarea {
 #section-4 {
   background-color: #191b20;
   color: #fff; }
+  #section-4 span {
+    display: block;
+    font-weight: 600; }
 
 /* =============
     Section 5
 ============= */
+#section-5 section p:last-child {
+  background-color: #e54f30;
+  color: #fff;
+  margin-top: 10px;
+  padding: 10px; }
+
 /* =============
     Section 6
 ============= */
 #section-6 {
-  background-color: #eeeeee; }
-  #section-6 .grid-content img {
-    margin-bottom: 0; }
-  #section-6 .grid-content .content-container > div {
-    background-color: #fff;
+  background-color: #e54f30;
+  color: #fff; }
+  #section-6 section h1 {
+    border-color: #000; }
+  #section-6 section p:last-child {
+    background-color: #000;
+    color: #fff;
+    margin-top: 10px;
     padding: 10px; }
 
 /* =============
     Section 7
 ============= */
 #section-7 {
-  background-color: #191b20;
-  color: #fff; }
+  background-color: #eeeeee; }
+  #section-7 section {
+    background-color: #fff;
+    padding: 20px; }
 
 /* =============
     Section 8
 ============= */
-/* =============
-    Section 9
-============= */
-#section-9 {
-  background-color: #eeeeee; }
-  #section-9 .grid-content img {
-    margin-bottom: 0; }
-  #section-9 .grid-content .content-container > div {
-    background-color: #fff;
-    padding: 10px; }
+#section-8 {
+  background-color: #191b20;
+  color: #fff; }
+  #section-8 span {
+    display: block;
+    font-weight: 600; }

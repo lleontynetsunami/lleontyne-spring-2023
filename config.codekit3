@@ -4,7 +4,7 @@
     {
       "name" : "Process All Remaining Files and Folders",
       "stepType" : 1,
-      "uuidString" : "0FD9531D-CD15-464A-8652-F0BAD2ACD652"
+      "uuidString" : "B6328392-9793-4E8D-8EE7-98C33A8DC2DE"
     }
   ],
   "creatorBuild" : "34484",
@@ -229,119 +229,88 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/construction.svg" : {
+    "\/deploy\/img\/basic-structure.jpg" : {
+      "ft" : 16384,
+      "iS" : 181212,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/basic-structure.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/body-tag.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/construction.svg",
+      "oAP" : "\/deploy\/img\/body-tag.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/screen-1.jpg" : {
-      "ft" : 16384,
-      "iS" : 192237,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/screen-1.jpg",
+    "\/deploy\/img\/head-tag.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/head-tag.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/deploy\/img\/screen-2.jpg" : {
-      "ft" : 16384,
-      "iS" : 208932,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/screen-2.jpg",
+    "\/deploy\/img\/html-tag.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/html-tag.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/deploy\/img\/screen-3.jpg" : {
-      "ft" : 16384,
-      "iS" : 219395,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/screen-3.jpg",
+    "\/deploy\/img\/HTML5-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/HTML5-logo.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/deploy\/img\/screen-4.jpg" : {
-      "ft" : 16384,
-      "iS" : 241807,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/screen-4.jpg",
+    "\/deploy\/img\/meta-tag.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/meta-tag.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/deploy\/img\/screen-5.jpg" : {
-      "ft" : 16384,
-      "iS" : 259828,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/screen-5.jpg",
+    "\/deploy\/img\/structure.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/structure.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/deploy\/img\/screen-6.jpg" : {
-      "ft" : 16384,
-      "iS" : 286973,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/screen-6.jpg",
+    "\/deploy\/img\/title-tag.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/title-tag.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/screen-7.jpg" : {
-      "ft" : 16384,
-      "iS" : 350486,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/screen-7.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/screen-8.jpg" : {
-      "ft" : 16384,
-      "iS" : 334148,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/screen-8.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
@@ -368,7 +337,7 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/index.html",
-      "oF" : 0
+      "oF" : 2
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -651,21 +620,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/dev\/scss\/sections\/_section-9.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-9.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/dev\/scss\/sections\/_sections.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -734,7 +688,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/section-5.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/section-6.kit" : {
       "cB" : 0,
@@ -742,7 +696,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/section-6.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/section-7.kit" : {
       "cB" : 0,
@@ -750,7 +704,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/section-7.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/section-8.kit" : {
       "cB" : 0,
@@ -758,14 +712,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/section-8.html",
-      "oF" : 0
-    },
-    "\/dev\/section-9.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-9.html",
       "oF" : 0
     }
   },
@@ -776,10 +722,10 @@
 
   },
   "projectAttributes" : {
-    "creationDate" : 607033015.87084198,
+    "creationDate" : 606956784.62530696,
     "displayValue" : "lleontyne-spring-2023",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-verd",
+    "iconImageName" : "brackets-unblue",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {

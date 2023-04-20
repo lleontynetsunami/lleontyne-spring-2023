@@ -11,7 +11,7 @@
      <script src="https://kit.fontawesome.com/3c79b583ac.js" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="css/styles.css">
-    <title>HTML Construction</title>
+    <title>HTML Introduction</title>
 </head>
 
 <body>
@@ -20,151 +20,92 @@
         <div class="grid-content">
             <section>
                 <div>
-                    <img src="img/construction.svg" alt="construction icon">
+                    <img src="img/structure.svg" alt="structure icon">
                 </div>
-                <h1>&lt;html&gt; Construction</h1>
+                <h1>&lt;html&gt; Introductions</h1>
             </section>
         </div>
     </section>
     <section class="container-grid sections" id="section-2">
             <div class="grid-content">
                 <section>
-                    
-                    <img src="img/screen-1.jpg" alt="html page structure">
-                   
-                    <article class="content-container">
-                        <div>
-                            <h1 class="section-title">Structure</h1>
-                            <p>We will be using the structure we went over in the last lecture.</p>
-        
-                            <p class="green-call-out">Please note that the majority of the tags we will cover in this lecture need a closing tag &lt;/&gt;</p>
-                        </div>
-                    </article>
+                    <h1 class="section-title">Basic HTML page structure</h1>
+                    <img src="img/basic-structure.jpg" alt="html page structure">
                 </section>
             </div>
         </section>
     <section class="container-grid sections" id="section-3">
                 <div class="grid-content">
                     <section>
-                        <img src="img/screen-2.jpg" alt="html page structure">
-                       
-                        <article class="content-container">
-                            <div>
-                                <h1 class="section-title">&lt;header&gt; tag</h1>
-                                <p>The &lt;header&gt; element represents a container for introductory content or a set of navigational links.
-                                You can have several &lt;header&gt; elements in one document.
-                                A &lt;header&gt; tag cannot be placed within a &lt;footer&gt;, &lt;address&gt; or another &lt;header&gt; element.</p>
+                        <img src="img/HTML5-logo.svg" alt="html 5 logo">
+                        <h1 class="section-title">Document Type</h1>
+                        <p>The declaration must be the very first thing in your HTML document, before the &lt;html&gt; tag. Notice how much cleaner the html 5 doctype is vs. the html 4.</p>
             
-                                <p class="green-call-out">Don't confuse this with the &lt;header&gt; tag, the &lt;head&gt; tag lives outside of the body tag.</p>
-                            </div>
+                        <article>
+                            <h3>HTML 5 DOCTYPE</h3>
+                            <p>Please note we will always use HTML 5 docs for this class and all future web classes.</p>
+                            <p>&lt;!DOCTYPE html&gt;</p>
                         </article>
+            
+                        <article>
+                            <h3>HTML 4 DOCTYPE</h3>
+                            <p>&lt;!DOCTYPE HTML PUBLIC-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd&gt;</p>
+                        </article>
+                        
                     </section>
                 </div>
             </section>
     <section class="container-grid sections" id="section-4">
                     <div class="grid-content">
                         <section>
-                            <img src="img/screen-3.jpg" alt="html page structure">
-                           
-                            <article class="content-container">
-                                <div>
-                                    <h1 class="section-title">&lt;nav&gt; tag</h1>
-                                    <p>The &lt;nav&gt; tag defines a set of navigation links.
-                                    Notice that NOT all links of a document should be inside a &lt;nav&gt; element.
-                                    The &lt;nav&gt; element is intended only for major block of navigation links.</p>
-                
-                                    <p class="green-call-out">Browsers, such as screen readers for disabled users, can use this element to determine whether to omit the initial rendering of this content.</p>
-                                </div>
-                            </article>
+                            <img src="img/html-tag.svg" alt="html 5 logo">
+                            <h1 class="section-title">&lt;html&gt; tag</h1>
+                            <h2>Defines the root of an HTML document.</h2>
+                            <p>The &lt;html&gt; tag tells the browser that this is an HTML document.</p>
+                            <p>The &lt;html&gt; tag is the container for all other HTML elements <span>(except for the &lt;!DOCTYPE&gt; tag).</span></p>
                         </section>
                     </div>
                 </section>
     <section class="container-grid sections" id="section-5">
                         <div class="grid-content">
                             <section>
-                    
-                                <img src="img/screen-4.jpg" alt="html page structure">
-                    
-                                <article class="content-container">
-                                    <div>
-                                        <h1 class="section-title">&lt;section&gt; tag</h1>
-                                        <p>The &lt;section&gt; tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document.</p>
-                    
-                                        <p class="green-call-out">The &lt;section&gt; tag defines sections in a document. You can have multiple &lt;section&gt; tags with in a document. You could even nest &lt;section&gt; tags.</p>
-                                    </div>
-                                </article>
-                    
+                                <img src="img/head-tag.svg" alt="html 5 logo">
+                                <h1 class="section-title">&lt;head&gt; tag</h1>
+                                <p>The &lt;head&gt; tag in HTML is used to define the head portion of the document which contains information related to the document. </p>
+                                <p>Do not confuse this for the &lt;header&gt; tag</p>
                             </section>
                         </div>
                     </section>
     <section class="container-grid sections" id="section-6">
                             <div class="grid-content">
                                 <section>
-                                    <img src="img/screen-5.jpg" alt="html page structure">
-                        
-                                    <article class="content-container">
-                                        <div>
-                                            <h1 class="section-title">&lt;article&gt; tag</h1>
-                                            <p>The &lt;article&gt; tag specifies independent, self-contained content. An article should make sense on its own and it should be possible to distribute it independently from the rest of the site</p>
-                        
-                                            <p class="green-call-out">You will see the &lt;article&gt; tag and &lt;section&gt; tag substituted for each other.</p>
-                                        </div>
-                                    </article>
-                        
-                                </section>
+                                    <img src="img/meta-tag.svg" alt="html 5 logo">
+                                    <h1 class="section-title">&lt;meta&gt; tag</h1>
+                                    <p>The &lt;meta&gt; tag provides metadata about the HTML document. Metadata will not be displayed on the page, but will be machine parsable.</p>
+                                    <p>Meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata.</p>
+                                    <p>Does not have a closing tag.</p>
                                 </section>
                             </div>
                         </section>
     <section class="container-grid sections" id="section-7">
                                 <div class="grid-content">
                                     <section>
-                                        <img src="img/screen-6.jpg" alt="html page structure">
-                            
-                                        <article class="content-container">
-                                            <div>
-                                                <h1 class="section-title">&lt;aside&gt; tag</h1>
-                                                <p>The &lt;aside&gt; tag defines some content aside from the content it is placed in.
-                            
-                                                    The aside content should be related to the surrounding content.</p>
-                            
-                                                <p class="green-call-out">The aside content is the same content that you would use for an aside in your publication class.</p>
-                                            </div>
-                                        </article>
+                                        <img src="img/title-tag.svg" alt="html 5 logo">
+                                        <h1 class="section-title">&lt;title&gt; tag</h1>
+                                        <p>Provides a title for the page when it is added to favorites. Displays a title for the page in search-engine results</p>
                                     </section>
                                 </div>
                             </section>
     <section class="container-grid sections" id="section-8">
                                     <div class="grid-content">
                                         <section>
-                                            <img src="img/screen-8.jpg" alt="html page structure">
-                                
-                                            <article class="content-container">
-                                                <div>
-                                                    <h1 class="section-title">&lt;div&gt; tag</h1>
-                                                    <p>The &lt;div&gt; tag defines a division or a section in an HTML document.The &lt;div&gt; tag is used to group block-elements to format them with CSS. We will ues the &lt;div&gt tag in connection with CSS Grid.</p>
-                                
-                                                    <p class="green-call-out">The &lt;div&gt tag is a tag that has been abused over the years. With the introduction of new tags in HTML the div tag now has a very specific purpose.</p>
-                                                </div>
-                                            </article>
+                                            <img src="img/body-tag.svg" alt="html 5 logo">
+                                            <h1 class="section-title">&lt;body&gt; tag</h1>
+                                            <p>The &lt;body&gt; tag defines the document's body.</p>
+                                            <p>The element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.</p>
                                         </section>
                                     </div>
                                 </section>
-    <section class="container-grid sections" id="section-9">
-                                        <div class="grid-content">
-                                            <section>
-                                                <img src="img/screen-7.jpg" alt="html page structure">
-                                    
-                                                <article class="content-container">
-                                                    <div>
-                                                        <h1 class="section-title">&lt;footer&gt; tag</h1>
-                                                        <p>The &lt;footer&gt; tag defines a footer for a document or section. A &lt;footer&gt; element should contain information about its containing element.</p>
-                                    
-                                                        <p class="green-call-out">You can have several &lt;footer&gt;  tags in one document.</p>
-                                                    </div>
-                                                </article>
-                                            </section>
-                                        </div>
-                                    </section>
 
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
