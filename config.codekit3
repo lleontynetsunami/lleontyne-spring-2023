@@ -4,219 +4,11 @@
     {
       "name" : "Process All Remaining Files and Folders",
       "stepType" : 1,
-      "uuidString" : "9789AB96-0FCD-47C8-ACBA-CC4FD8954B2E"
+      "uuidString" : "0FD9531D-CD15-464A-8652-F0BAD2ACD652"
     }
   ],
   "creatorBuild" : "34484",
   "files" : {
-    "\/assets\/circle.png" : {
-      "ft" : 32768,
-      "iS" : 69345,
-      "oA" : 0,
-      "oAP" : "\/assets\/circle.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/circleone.png" : {
-      "ft" : 32768,
-      "iS" : 8429,
-      "oA" : 0,
-      "oAP" : "\/assets\/circleone.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/desktophd.jpg" : {
-      "ft" : 16384,
-      "iS" : 32887,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/desktophd.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/insta.png" : {
-      "ft" : 32768,
-      "iS" : 90802,
-      "oA" : 0,
-      "oAP" : "\/assets\/insta.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/mainhero.jpg" : {
-      "ft" : 16384,
-      "iS" : 33295,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/mainhero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/picfive.png" : {
-      "ft" : 32768,
-      "iS" : 748801,
-      "oA" : 0,
-      "oAP" : "\/assets\/picfive.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/picfour.jpg" : {
-      "ft" : 16384,
-      "iS" : 186226,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/picfour.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/picone.jpg" : {
-      "ft" : 16384,
-      "iS" : 62436,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/picone.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/picseven.png" : {
-      "ft" : 32768,
-      "iS" : 34635,
-      "oA" : 0,
-      "oAP" : "\/assets\/picseven.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/picsix.jpg" : {
-      "ft" : 16384,
-      "iS" : 30820,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/picsix.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/picthree.png" : {
-      "ft" : 32768,
-      "iS" : 1446839,
-      "oA" : 0,
-      "oAP" : "\/assets\/picthree.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/pictwo.jpg" : {
-      "ft" : 16384,
-      "iS" : 51369,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/pictwo.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/pin.png" : {
-      "ft" : 32768,
-      "iS" : 30229,
-      "oA" : 0,
-      "oAP" : "\/assets\/pin.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/search.png" : {
-      "ft" : 32768,
-      "iS" : 9623,
-      "oA" : 0,
-      "oAP" : "\/assets\/search.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/twitter.png" : {
-      "ft" : 32768,
-      "iS" : 5436,
-      "oA" : 0,
-      "oAP" : "\/assets\/twitter.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/yttplogo.png" : {
-      "ft" : 32768,
-      "iS" : 10048,
-      "oA" : 0,
-      "oAP" : "\/assets\/yttplogo.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -229,61 +21,11 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/br-tag.svg" : {
+    "\/deploy\/img\/construction.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/deploy\/img\/br-tag.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/content.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/content.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/h-tag.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/h-tag.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/img-tag.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/img-tag.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/ol-list.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/ol-list.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/p-tag.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/p-tag.svg",
+      "oAP" : "\/deploy\/img\/construction.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -291,7 +33,7 @@
     },
     "\/deploy\/img\/screen-1.jpg" : {
       "ft" : 16384,
-      "iS" : 212843,
+      "iS" : 192237,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/screen-1.jpg",
@@ -304,7 +46,7 @@
     },
     "\/deploy\/img\/screen-2.jpg" : {
       "ft" : 16384,
-      "iS" : 220717,
+      "iS" : 208932,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/screen-2.jpg",
@@ -317,7 +59,7 @@
     },
     "\/deploy\/img\/screen-3.jpg" : {
       "ft" : 16384,
-      "iS" : 280945,
+      "iS" : 219395,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/screen-3.jpg",
@@ -330,7 +72,7 @@
     },
     "\/deploy\/img\/screen-4.jpg" : {
       "ft" : 16384,
-      "iS" : 291904,
+      "iS" : 241807,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/screen-4.jpg",
@@ -343,7 +85,7 @@
     },
     "\/deploy\/img\/screen-5.jpg" : {
       "ft" : 16384,
-      "iS" : 340686,
+      "iS" : 259828,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/screen-5.jpg",
@@ -356,7 +98,7 @@
     },
     "\/deploy\/img\/screen-6.jpg" : {
       "ft" : 16384,
-      "iS" : 344625,
+      "iS" : 286973,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/screen-6.jpg",
@@ -369,7 +111,7 @@
     },
     "\/deploy\/img\/screen-7.jpg" : {
       "ft" : 16384,
-      "iS" : 259520,
+      "iS" : 350486,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/screen-7.jpg",
@@ -382,7 +124,7 @@
     },
     "\/deploy\/img\/screen-8.jpg" : {
       "ft" : 16384,
-      "iS" : 304121,
+      "iS" : 334148,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/screen-8.jpg",
@@ -392,42 +134,6 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/deploy\/img\/screen-9.jpg" : {
-      "ft" : 16384,
-      "iS" : 274267,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/screen-9.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/screen-10.jpg" : {
-      "ft" : 16384,
-      "iS" : 249224,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/screen-10.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/ul-list.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/ul-list.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
@@ -453,7 +159,7 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/index.html",
+      "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
     "\/dev\/js\/scripts.js" : {
@@ -480,7 +186,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
@@ -495,7 +201,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
@@ -510,7 +216,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
@@ -525,7 +231,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
@@ -540,7 +246,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
@@ -555,7 +261,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
@@ -570,7 +276,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
@@ -585,7 +291,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/layout\/_footer.scss" : {
       "aP" : 0,
@@ -600,7 +306,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/layout\/_header.scss" : {
       "aP" : 0,
@@ -615,7 +321,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/sections\/_section-1.scss" : {
       "aP" : 0,
@@ -630,7 +336,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/sections\/_section-2.scss" : {
       "aP" : 0,
@@ -645,7 +351,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/sections\/_section-3.scss" : {
       "aP" : 0,
@@ -660,7 +366,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/sections\/_section-4.scss" : {
       "aP" : 0,
@@ -675,7 +381,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/sections\/_section-5.scss" : {
       "aP" : 0,
@@ -690,7 +396,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/sections\/_section-6.scss" : {
       "aP" : 0,
@@ -705,7 +411,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/sections\/_section-7.scss" : {
       "aP" : 0,
@@ -720,7 +426,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/sections\/_section-8.scss" : {
       "aP" : 0,
@@ -735,7 +441,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/sections\/_section-9.scss" : {
       "aP" : 0,
@@ -750,37 +456,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_section-10.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-10.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_section-11.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_section-11.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/sections\/_sections.scss" : {
       "aP" : 0,
@@ -795,7 +471,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/scss\/styles.scss" : {
       "aP" : 0,
@@ -810,7 +486,7 @@
       "oF" : 2,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/dev\/section-1.kit" : {
       "cB" : 0,
@@ -883,22 +559,6 @@
       "oA" : 1,
       "oAP" : "\/dev\/section-9.html",
       "oF" : 0
-    },
-    "\/dev\/section-10.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-10.html",
-      "oF" : 0
-    },
-    "\/dev\/section-11.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/section-11.html",
-      "oF" : 0
     }
   },
   "hooks" : [
@@ -908,10 +568,10 @@
 
   },
   "projectAttributes" : {
-    "creationDate" : 703640789.55557704,
+    "creationDate" : 607033015.87084198,
     "displayValue" : "lleontyne-spring-2023",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-pale",
+    "iconImageName" : "brackets-verd",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
@@ -1221,7 +881,7 @@
     "esLintRules" : {
       "accessor-pairs" : {
         "active" : 0,
-        "optionString" : "{'setWithoutGet': true, 'getWithoutSet': false, 'enforceForClassMembers': true}"
+        "optionString" : "{'setWithoutGet': true, 'getWithoutSet': false}"
       },
       "array-bracket-newline" : {
         "active" : 0,
@@ -1264,7 +924,7 @@
       },
       "camelcase" : {
         "active" : 0,
-        "optionString" : "{'properties': 'always', 'ignoreDestructuring': false, 'ignoreImports': false}"
+        "optionString" : "{'properties': 'always', 'ignoreDestructuring': false}"
       },
       "capitalized-comments" : {
         "active" : 0,
@@ -1272,7 +932,7 @@
       },
       "class-methods-use-this" : {
         "active" : 0,
-        "optionString" : "{'exceptMethods': [], 'enforceForClassFields': true}"
+        "optionString" : "{'exceptMethods': []}"
       },
       "comma-dangle" : {
         "active" : 1,
@@ -1292,7 +952,7 @@
       },
       "computed-property-spacing" : {
         "active" : 0,
-        "optionString" : "'never', {'enforceForClassMembers': true}"
+        "optionString" : "'never'"
       },
       "consistent-return" : {
         "active" : 0,
@@ -1335,7 +995,7 @@
         "optionString" : "'always', {'null': 'always'}"
       },
       "for-direction" : {
-        "active" : 1
+        "active" : 0
       },
       "func-call-spacing" : {
         "active" : 0,
@@ -1366,7 +1026,7 @@
         "optionString" : "{'before': true, 'after': false}"
       },
       "getter-return" : {
-        "active" : 1,
+        "active" : 0,
         "optionString" : "{'allowImplicit': false}"
       },
       "grouped-accessor-pairs" : {
@@ -1434,7 +1094,7 @@
       },
       "max-classes-per-file" : {
         "active" : 0,
-        "optionString" : "{'ignoreExpressions': false, 'max': 1}"
+        "optionString" : "1"
       },
       "max-depth" : {
         "active" : 0,
@@ -1495,7 +1155,7 @@
         "active" : 0
       },
       "no-async-promise-executor" : {
-        "active" : 1
+        "active" : 0
       },
       "no-await-in-loop" : {
         "active" : 0
@@ -1514,7 +1174,7 @@
         "active" : 1
       },
       "no-compare-neg-zero" : {
-        "active" : 1
+        "active" : 0
       },
       "no-cond-assign" : {
         "active" : 1,
@@ -1522,10 +1182,10 @@
       },
       "no-confusing-arrow" : {
         "active" : 0,
-        "optionString" : "{'allowParens': true, 'onlyOneSimpleParam': false}"
+        "optionString" : "{'allowParens': true}"
       },
       "no-console" : {
-        "active" : 0,
+        "active" : 1,
         "optionString" : "{'allow': ['warn', 'error']}"
       },
       "no-const-assign" : {
@@ -1620,14 +1280,14 @@
       },
       "no-extra-parens" : {
         "active" : 0,
-        "optionString" : "'all'"
+        "optionString" : "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
       },
       "no-extra-semi" : {
         "active" : 1
       },
       "no-fallthrough" : {
         "active" : 1,
-        "optionString" : "{'allowEmptyCase': false}"
+        "optionString" : ""
       },
       "no-floating-decimal" : {
         "active" : 0
@@ -1641,7 +1301,7 @@
       },
       "no-implicit-coercion" : {
         "active" : 0,
-        "optionString" : "{'boolean': true, 'number': true, 'string': true, 'disallowTemplateShorthand': false, 'allow': []}"
+        "optionString" : "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
       },
       "no-implicit-globals" : {
         "active" : 0
@@ -1665,7 +1325,7 @@
       },
       "no-invalid-this" : {
         "active" : 0,
-        "optionString" : "{'capIsConstructor': true}"
+        "optionString" : ""
       },
       "no-irregular-whitespace" : {
         "active" : 1,
@@ -1695,22 +1355,22 @@
       },
       "no-magic-numbers" : {
         "active" : 0,
-        "optionString" : "{'ignore': [], 'ignoreArrayIndexes': true, 'ignoreDefaultValues': false, 'ignoreClassFieldInitialValues': false, 'enforceConst': false, 'detectObjects': false}"
+        "optionString" : "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
       },
       "no-misleading-character-class" : {
-        "active" : 1
+        "active" : 0
       },
       "no-mixed-operators" : {
         "active" : 0,
         "optionString" : "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
       },
       "no-mixed-spaces-and-tabs" : {
-        "active" : 1,
+        "active" : 0,
         "optionString" : ""
       },
       "no-multi-assign" : {
         "active" : 0,
-        "optionString" : "{'ignoreNonDeclaration': false}"
+        "optionString" : ""
       },
       "no-multi-spaces" : {
         "active" : 0,
@@ -1774,7 +1434,7 @@
         "active" : 0
       },
       "no-prototype-builtins" : {
-        "active" : 1
+        "active" : 0
       },
       "no-redeclare" : {
         "active" : 1,
@@ -1822,17 +1482,17 @@
       },
       "no-sequences" : {
         "active" : 0,
-        "optionString" : "{'allowInParentheses': true}"
+        "optionString" : ""
       },
       "no-setter-return" : {
         "active" : 1
       },
       "no-shadow" : {
         "active" : 0,
-        "optionString" : "{'builtinGlobals': false, 'hoist': 'functions', 'allow': [], 'ignoreOnInitialization': false}"
+        "optionString" : "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
       },
       "no-shadow-restricted-names" : {
-        "active" : 1
+        "active" : 0
       },
       "no-sparse-arrays" : {
         "active" : 1
@@ -1869,7 +1529,7 @@
       },
       "no-underscore-dangle" : {
         "active" : 0,
-        "optionString" : "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'allowAfterThisConstructor': false, 'enforceInMethodNames': false, 'enforceInClassFields': false, 'allowFunctionParams': true}"
+        "optionString" : "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
       },
       "no-unexpected-multiline" : {
         "active" : 1
@@ -1893,7 +1553,7 @@
       },
       "no-unsafe-negation" : {
         "active" : 1,
-        "optionString" : "{'enforceForOrderingRelations': false}"
+        "optionString" : ""
       },
       "no-unsafe-optional-chaining" : {
         "active" : 1,
@@ -1901,7 +1561,7 @@
       },
       "no-unused-expressions" : {
         "active" : 0,
-        "optionString" : "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false, 'enforceForJSX': false}"
+        "optionString" : "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
       },
       "no-unused-labels" : {
         "active" : 1
@@ -1915,7 +1575,7 @@
       },
       "no-use-before-define" : {
         "active" : 0,
-        "optionString" : "{'functions': true, 'classes': true, 'variables': true, 'allowNamedExports': false}"
+        "optionString" : "{'functions': true, 'classes': true, 'variables': true}"
       },
       "no-useless-backreference" : {
         "active" : 1
@@ -1924,11 +1584,11 @@
         "active" : 0
       },
       "no-useless-catch" : {
-        "active" : 1
+        "active" : 0
       },
       "no-useless-computed-key" : {
         "active" : 0,
-        "optionString" : "{'enforceForClassMembers': false}"
+        "optionString" : ""
       },
       "no-useless-concat" : {
         "active" : 0
@@ -1937,7 +1597,7 @@
         "active" : 0
       },
       "no-useless-escape" : {
-        "active" : 1
+        "active" : 0
       },
       "no-useless-rename" : {
         "active" : 0,
@@ -1951,7 +1611,7 @@
       },
       "no-void" : {
         "active" : 0,
-        "optionString" : "{'allowAsStatement': false}"
+        "optionString" : ""
       },
       "no-warning-comments" : {
         "active" : 0,
@@ -1961,7 +1621,7 @@
         "active" : 0
       },
       "no-with" : {
-        "active" : 1
+        "active" : 0
       },
       "nonblock-statement-body-position" : {
         "active" : 0,
@@ -2063,7 +1723,7 @@
       },
       "require-atomic-updates" : {
         "active" : 0,
-        "optionString" : "{'allowProperties': false}"
+        "optionString" : ""
       },
       "require-await" : {
         "active" : 0
@@ -2092,11 +1752,11 @@
       },
       "sort-imports" : {
         "active" : 0,
-        "optionString" : "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single'], 'allowSeparatedGroups': false}"
+        "optionString" : "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
       },
       "sort-keys" : {
         "active" : 0,
-        "optionString" : "'asc', {'caseSensitive': true, 'natural': false, 'minKeys': 2, 'allowLineSeparatedGroups': false}"
+        "optionString" : "'asc', {'caseSensitive': true, 'natural': false, 'minKeys': 2}"
       },
       "sort-vars" : {
         "active" : 0,
@@ -2151,7 +1811,7 @@
       },
       "use-isnan" : {
         "active" : 1,
-        "optionString" : "{'enforceForSwitchCase': true, 'enforceForIndexOf': false}"
+        "optionString" : ""
       },
       "valid-typeof" : {
         "active" : 1,
@@ -2188,7 +1848,7 @@
       "autoOutputPathReplace1" : "",
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 0,
-      "minifierStyle" : 0,
+      "minifierStyle" : 1,
       "outputStyle" : 0,
       "sourceMapStyle" : 0,
       "transpilerStyle" : 1
@@ -2265,7 +1925,7 @@
       "autoOutputPathReplace1" : "",
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 0,
-      "orderOutput" : 1,
+      "orderOutput" : 0,
       "outputStyle" : 1
     },
     "languageDefaultsKIT" : {
@@ -2294,7 +1954,7 @@
       "rewriteURLStyle" : 0,
       "shouldRunAutoprefixer" : 0,
       "shouldRunBless" : 0,
-      "sourceMapStyle" : 0,
+      "sourceMapStyle" : 1,
       "strictImports" : 0,
       "strictUnits" : 0
     },
@@ -2337,7 +1997,7 @@
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 0,
       "optimizerType" : 1,
-      "quality" : 90,
+      "quality" : 100,
       "webpOptimizationPresetUUID" : "lpckwebp-none",
       "webpRGBQuality" : 75
     },
@@ -2350,7 +2010,7 @@
       "autoOutputPathStyle" : 0,
       "compileDebug" : 1,
       "htmlMinifierStyle" : 0,
-      "outputStyle" : 1,
+      "outputStyle" : 0,
       "shouldRunCacheBuster" : 0
     },
     "languageDefaultsSASS" : {
@@ -2360,7 +2020,7 @@
       "autoOutputPathReplace1" : "sass",
       "autoOutputPathReplace2" : "css",
       "autoOutputPathStyle" : 0,
-      "compilerType" : 0,
+      "compilerType" : 1,
       "cssoStyle" : 0,
       "decimalPrecision" : 10,
       "emitCharset" : 1,
@@ -2495,7 +2155,7 @@
     "tsESModuleInterop" : 0,
     "tsExactOptionalPropertyTypes" : 0,
     "tsExperimentalDecorators" : 0,
-    "tsForceConsistentCasingInFileNames" : 1,
+    "tsForceConsistentCasingInFileNames" : 0,
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
     "tsJSXFactory" : "React.createElement",

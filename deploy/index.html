@@ -11,7 +11,7 @@
      <script src="https://kit.fontawesome.com/3c79b583ac.js" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="css/styles.css">
-    <title>HTML Content</title>
+    <title>HTML Construction</title>
 </head>
 
 <body>
@@ -20,22 +20,24 @@
         <div class="grid-content">
             <section>
                 <div>
-                    <img src="img/content.svg" alt="construction icon">
+                    <img src="img/construction.svg" alt="construction icon">
                 </div>
-                <h1>&lt;html&gt; Content</h1>
+                <h1>&lt;html&gt; Construction</h1>
             </section>
         </div>
     </section>
     <section class="container-grid sections" id="section-2">
             <div class="grid-content">
                 <section>
-        
+                    
                     <img src="img/screen-1.jpg" alt="html page structure">
-        
+                   
                     <article class="content-container">
                         <div>
                             <h1 class="section-title">Structure</h1>
                             <p>We will be using the structure we went over in the last lecture.</p>
+        
+                            <p class="green-call-out">Please note that the majority of the tags we will cover in this lecture need a closing tag &lt;/&gt;</p>
                         </div>
                     </article>
                 </section>
@@ -45,16 +47,15 @@
                 <div class="grid-content">
                     <section>
                         <img src="img/screen-2.jpg" alt="html page structure">
-            
+                       
                         <article class="content-container">
                             <div>
-                                <h1 class="section-title">&lt;h #&gt; <span>( h1 - h6 )</span></h1>
+                                <h1 class="section-title">&lt;header&gt; tag</h1>
+                                <p>The &lt;header&gt; element represents a container for introductory content or a set of navigational links.
+                                You can have several &lt;header&gt; elements in one document.
+                                A &lt;header&gt; tag cannot be placed within a &lt;footer&gt;, &lt;address&gt; or another &lt;header&gt; element.</p>
             
-                                <p>The &lt;h1&gt; to &lt;h6&gt; tags are used to define HTML headings. &lt;h1&gt; defines the most
-                                    important heading. &lt;h6&gt; defines the least important heading.</p>
-            
-                                <p class="green-call-out">In HTML 5 you are allowed to have more then one &lt;h1&gt; tag per page.
-                                </p>
+                                <p class="green-call-out">Don't confuse this with the &lt;header&gt; tag, the &lt;head&gt; tag lives outside of the body tag.</p>
                             </div>
                         </article>
                     </section>
@@ -64,13 +65,15 @@
                     <div class="grid-content">
                         <section>
                             <img src="img/screen-3.jpg" alt="html page structure">
-                
+                           
                             <article class="content-container">
                                 <div>
-                                    <h1 class="section-title">&lt;p&gt; tag</h1>
-                                    <p>The &lt;p&gt; tag defines a paragraph. Browsers automatically add some space (margin) before and
-                                        after each element. The margins can be modified with CSS (with the margin properties).</p>
+                                    <h1 class="section-title">&lt;nav&gt; tag</h1>
+                                    <p>The &lt;nav&gt; tag defines a set of navigation links.
+                                    Notice that NOT all links of a document should be inside a &lt;nav&gt; element.
+                                    The &lt;nav&gt; element is intended only for major block of navigation links.</p>
                 
+                                    <p class="green-call-out">Browsers, such as screen readers for disabled users, can use this element to determine whether to omit the initial rendering of this content.</p>
                                 </div>
                             </article>
                         </section>
@@ -84,12 +87,10 @@
                     
                                 <article class="content-container">
                                     <div>
-                                        <h1 class="section-title">&lt;span&gt; tag</h1>
-                                        <p>The &lt;span&gt; tag is used to group inline-elements in a document. The &lt;span&gt; tag
-                                            provides no visual change by itself. The &lt;span&gt; tag provides a way to add a hook to a part
-                                            of a text or a part of a document.</p>
+                                        <h1 class="section-title">&lt;section&gt; tag</h1>
+                                        <p>The &lt;section&gt; tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document.</p>
                     
-                                        <p class="purple-call-out">This tag will become more useful once we start using css.</p>
+                                        <p class="green-call-out">The &lt;section&gt; tag defines sections in a document. You can have multiple &lt;section&gt; tags with in a document. You could even nest &lt;section&gt; tags.</p>
                                     </div>
                                 </article>
                     
@@ -103,16 +104,14 @@
                         
                                     <article class="content-container">
                                         <div>
-                                            <h1 class="section-title">&lt;br&gt; tag</h1>
-                                            <p>The &lt;br&gt; tag inserts a single line break. The &lt;br&gt; tag is an empty tag which means
-                                                that it has no end tag.</p>
+                                            <h1 class="section-title">&lt;article&gt; tag</h1>
+                                            <p>The &lt;article&gt; tag specifies independent, self-contained content. An article should make sense on its own and it should be possible to distribute it independently from the rest of the site</p>
                         
-                                            <p class="purple-call-out">Never use the &lt;br&gt; tag as a design choice. There are a few reasons
-                                                why you would use the &lt;br&gt; tag ( &lt;address&gt; tag ). You will rarely use the &lt;br&gt;
-                                                tag in this course.</p>
+                                            <p class="green-call-out">You will see the &lt;article&gt; tag and &lt;section&gt; tag substituted for each other.</p>
                                         </div>
                                     </article>
                         
+                                </section>
                                 </section>
                             </div>
                         </section>
@@ -123,9 +122,12 @@
                             
                                         <article class="content-container">
                                             <div>
-                                                <h1 class="section-title">&lt;hr&gt; tag</h1>
-                                                <p>The &lt;hr&gt; tag defines a thematic break in an HTML page (e.g. a shift of topic). The
-                                                    &lt;hr&gt; element is used to separate content (or define a change) in an HTML page.</p>
+                                                <h1 class="section-title">&lt;aside&gt; tag</h1>
+                                                <p>The &lt;aside&gt; tag defines some content aside from the content it is placed in.
+                            
+                                                    The aside content should be related to the surrounding content.</p>
+                            
+                                                <p class="green-call-out">The aside content is the same content that you would use for an aside in your publication class.</p>
                                             </div>
                                         </article>
                                     </section>
@@ -138,23 +140,10 @@
                                 
                                             <article class="content-container">
                                                 <div>
-                                                    <h1 class="section-title">Lists</h1>
-                                                    <p>There are 2 list types that we will use for this class. Each list is made up of at least these 2
-                                                        components. The &lt;ul&gt; or &lt;ol&gt; and at least one &lt;li&gt;.</p>
+                                                    <h1 class="section-title">&lt;div&gt; tag</h1>
+                                                    <p>The &lt;div&gt; tag defines a division or a section in an HTML document.The &lt;div&gt; tag is used to group block-elements to format them with CSS. We will ues the &lt;div&gt tag in connection with CSS Grid.</p>
                                 
-                                                    <section>
-                                                        <article>
-                                                            <h1 class="section-title">&lt;ul&gt; tag</h1>
-                                                            <img src="img/ul-list.svg" alt="list icon">
-                                                            <p>The &lt;ul&gt; tag defines an unordered (bulleted) list.</p>
-                                                        </article>
-                                
-                                                        <article>
-                                                            <h1 class="section-title">&lt;ol&gt; tag</h1>
-                                                            <img src="img/ol-list.svg" alt="list icon">
-                                                            <p>The &lt;ol&gt; tag defines an ordered (numbered) list.</p>
-                                                        </article>
-                                                    </section>
+                                                    <p class="green-call-out">The &lt;div&gt tag is a tag that has been abused over the years. With the introduction of new tags in HTML the div tag now has a very specific purpose.</p>
                                                 </div>
                                             </article>
                                         </section>
@@ -167,64 +156,15 @@
                                     
                                                 <article class="content-container">
                                                     <div>
-                                                        <h1 class="section-title">&lt;li&gt; tag</h1>
-                                                        <p>The &lt;li&gt; tag defines a list item. The &lt;li&gt; tag is used in ordered lists( &lt;ol&gt;
-                                                            ), unordered lists ( &lt;ul&gt; ).</p>
+                                                        <h1 class="section-title">&lt;footer&gt; tag</h1>
+                                                        <p>The &lt;footer&gt; tag defines a footer for a document or section. A &lt;footer&gt; element should contain information about its containing element.</p>
                                     
-                                                        <p class="purple-call-out">A &lt;li&gt; maybe be the only child tag of a any list &lt;ul&gt; or
-                                                            &lt;ol&gt; tag</p>
+                                                        <p class="green-call-out">You can have several &lt;footer&gt;  tags in one document.</p>
                                                     </div>
                                                 </article>
                                             </section>
                                         </div>
                                     </section>
-    <section class="container-grid sections" id="section-10">
-                                            <div class="grid-content">
-                                                <section>
-                                                    <img src="img/screen-9.jpg" alt="html page structure">
-                                        
-                                                    <article class="content-container">
-                                                        <div>
-                                                            <h1 class="section-title">&lt;a&gt; tag</h1>
-                                                            <p>The &lt;a&gt; tag defines a hyperlink, which is used to link from one page to another. The most
-                                                                important attribute of the &lt;a&gt; element is the href attribute, which indicates the link's
-                                                                destination.</p>
-                                        
-                                                            <div class="purple-call-out">
-                                                                <h3>How default links appear in all browsers:</h3>
-                                                                <ul>
-                                                                    <li>An unvisited link is underlined and blue</li>
-                                                                    <li>A visited link is underlined and purple</li>
-                                                                    <li>An active link is underlined and red</li>
-                                                                </ul>
-                                                                <p>Don't worry about the appearance of links we will style them in CSS.</p>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                </section>
-                                            </div>
-                                        </section>
-    <section class="container-grid sections" id="section-11">
-                                                <div class="grid-content">
-                                                    <section>
-                                                        <img src="img/screen-10.jpg" alt="html page structure">
-                                            
-                                                        <article class="content-container">
-                                                            <div>
-                                                                <h1 class="section-title">&lt;img&gt; tag</h1>
-                                                                <p>The &lt;img&gt; tag defines an image in an HTML page. The &lt;img&gt; tag has two required
-                                                                    attributes: src and alt.</p>
-                                            
-                                                                <p class="purple-call-out">Images are not technically inserted into an HTML page, images are linked
-                                                                    to HTML pages. The tag creates a holding space for the referenced image.</p>
-                                            
-                                                                <a href="https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/"
-                                                                    target="_blank">Relative vs. Absolute Paths</a>
-                                                            </div>
-                                                        </article>
-                                                    </section>
-                                                </div>
-                                            </section>
 
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
