@@ -9,15 +9,15 @@
   ],
   "creatorBuild" : "34484",
   "files" : {
-    "\/web-3-css-grid-hmwrk\/Assets\/In-class-S23.fig" : {
+    "\/personal figma\/Assets\/In-class-S23.fig" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/web-3-css-grid-hmwrk\/Assets\/In-class-S23.fig",
+      "oAP" : "\/personal figma\/Assets\/In-class-S23.fig",
       "oF" : 0
     },
-    "\/web-3-css-grid-hmwrk\/deploy\/css\/styles.css" : {
+    "\/personal figma\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -25,62 +25,268 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/web-3-css-grid-hmwrk\/deploy\/css\/styles-min.css",
+      "oAP" : "\/personal figma\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/web-3-css-grid-hmwrk\/deploy\/index.html" : {
+    "\/personal figma\/deploy\/img\/gallery\/gallery-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 516632,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/gallery\/gallery-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/gallery\/gallery-2.png" : {
+      "ft" : 32768,
+      "iS" : 271380,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/gallery\/gallery-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/gallery\/gallery-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 157007,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/gallery\/gallery-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/global\/star.png" : {
+      "ft" : 32768,
+      "iS" : 337,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/global\/star.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/header\/logo.png" : {
+      "ft" : 32768,
+      "iS" : 12905,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/header\/logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/header\/search.png" : {
+      "ft" : 32768,
+      "iS" : 854,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/header\/search.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/hero\/circle1.png" : {
+      "ft" : 32768,
+      "iS" : 7138,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/hero\/circle1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/hero\/circle2.png" : {
+      "ft" : 32768,
+      "iS" : 13254,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/hero\/circle2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/hero\/hero.png" : {
+      "ft" : 32768,
+      "iS" : 433230,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/hero\/hero.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/new\/new-1.png" : {
+      "ft" : 32768,
+      "iS" : 86288,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/new\/new-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/new\/new-2.png" : {
+      "ft" : 32768,
+      "iS" : 119346,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/new\/new-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/new\/new-3.png" : {
+      "ft" : 32768,
+      "iS" : 69379,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/new\/new-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/new\/new-4.png" : {
+      "ft" : 32768,
+      "iS" : 51705,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/new\/new-4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/img\/new\/new-5.png" : {
+      "ft" : 32768,
+      "iS" : 34635,
+      "oA" : 0,
+      "oAP" : "\/personal figma\/deploy\/img\/new\/new-5.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/personal figma\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/web-3-css-grid-hmwrk\/deploy\/index.html",
+      "oAP" : "\/personal figma\/deploy\/index.html",
       "oF" : 0
     },
-    "\/web-3-css-grid-hmwrk\/deploy\/js\/scripts-min.js" : {
+    "\/personal figma\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/web-3-css-grid-hmwrk\/deploy\/js\/scripts-min-min.js",
+      "oAP" : "\/personal figma\/deploy\/js\/scripts-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/global\/footer.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/global\/footer.html",
-      "oF" : 0
-    },
-    "\/web-3-css-grid-hmwrk\/dev\/global\/head.kit" : {
+    "\/personal figma\/dev\/content\/gallery.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/global\/head.html",
+      "oAP" : "\/personal figma\/dev\/content\/gallery.html",
       "oF" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/global\/header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/global\/header.html",
-      "oF" : 0
-    },
-    "\/web-3-css-grid-hmwrk\/dev\/global\/scripts.kit" : {
+    "\/personal figma\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/global\/scripts.html",
+      "oAP" : "\/personal figma\/dev\/content\/hero.html",
       "oF" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/index.kit" : {
+    "\/personal figma\/dev\/content\/new.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/personal figma\/dev\/content\/new.html",
+      "oF" : 0
+    },
+    "\/personal figma\/dev\/global\/footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/personal figma\/dev\/global\/footer.html",
+      "oF" : 0
+    },
+    "\/personal figma\/dev\/global\/head.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/personal figma\/dev\/global\/head.html",
+      "oF" : 0
+    },
+    "\/personal figma\/dev\/global\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/personal figma\/dev\/global\/header.html",
+      "oF" : 0
+    },
+    "\/personal figma\/dev\/global\/scripts.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/personal figma\/dev\/global\/scripts.html",
+      "oF" : 0
+    },
+    "\/personal figma\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
@@ -88,7 +294,7 @@
       "oAP" : "\/web-3-css-grid-hmwrk\/deploy\/index.html",
       "oF" : 2
     },
-    "\/web-3-css-grid-hmwrk\/dev\/js\/scripts.js" : {
+    "\/personal figma\/dev\/js\/scripts.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
@@ -99,7 +305,7 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/base\/_base.scss" : {
+    "\/personal figma\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -108,13 +314,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/scss\/base\/_base.css",
+      "oAP" : "\/personal figma\/dev\/scss\/base\/_base.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/base\/_normalize.scss" : {
+    "\/personal figma\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -123,13 +329,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/scss\/base\/_normalize.css",
+      "oAP" : "\/personal figma\/dev\/scss\/base\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/base\/_typography.scss" : {
+    "\/personal figma\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -138,13 +344,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/scss\/base\/_typography.css",
+      "oAP" : "\/personal figma\/dev\/scss\/base\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/components\/_buttons.scss" : {
+    "\/personal figma\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -153,13 +359,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/scss\/components\/_buttons.css",
+      "oAP" : "\/personal figma\/dev\/scss\/components\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/components\/_forms.scss" : {
+    "\/personal figma\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -168,13 +374,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/scss\/components\/_forms.css",
+      "oAP" : "\/personal figma\/dev\/scss\/components\/_forms.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/components\/_navigation.scss" : {
+    "\/personal figma\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -183,13 +389,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/personal figma\/dev\/scss\/components\/_navigation.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/helpers\/_mixins.scss" : {
+    "\/personal figma\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -198,13 +404,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/scss\/helpers\/_mixins.css",
+      "oAP" : "\/personal figma\/dev\/scss\/helpers\/_mixins.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/helpers\/_variables.scss" : {
+    "\/personal figma\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -213,13 +419,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/scss\/helpers\/_variables.css",
+      "oAP" : "\/personal figma\/dev\/scss\/helpers\/_variables.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/layout\/_footer.scss" : {
+    "\/personal figma\/dev\/scss\/layout\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -228,13 +434,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/scss\/layout\/_footer.css",
+      "oAP" : "\/personal figma\/dev\/scss\/layout\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/layout\/_header.scss" : {
+    "\/personal figma\/dev\/scss\/layout\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -243,13 +449,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/scss\/layout\/_header.css",
+      "oAP" : "\/personal figma\/dev\/scss\/layout\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/web-3-css-grid-hmwrk\/dev\/scss\/styles.scss" : {
+    "\/personal figma\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -263,6 +469,70 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/web-3-css-grid-hmwrk\/deploy\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/web-3-css-grid-hmwrk\/deploy\/index.html",
+      "oF" : 0
+    },
+    "\/web-3-css-grid-hmwrk\/dev\/content\/gallery.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/content\/gallery.html",
+      "oF" : 0
+    },
+    "\/web-3-css-grid-hmwrk\/dev\/content\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/content\/hero.html",
+      "oF" : 0
+    },
+    "\/web-3-css-grid-hmwrk\/dev\/content\/new.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/content\/new.html",
+      "oF" : 0
+    },
+    "\/web-3-css-grid-hmwrk\/dev\/global\/footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/global\/footer.html",
+      "oF" : 0
+    },
+    "\/web-3-css-grid-hmwrk\/dev\/global\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/global\/header.html",
+      "oF" : 0
+    },
+    "\/web-3-css-grid-hmwrk\/dev\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/web-3-css-grid-hmwrk\/dev\/index.html",
+      "oF" : 0
+    },
+    "\/Web-3-Homework-S23-Starting-Template\/deploy\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Web-3-Homework-S23-Starting-Template\/deploy\/index.html",
+      "oF" : 0
     },
     "\/web-3-html-hmwrk\/deploy\/css\/styles.css" : {
       "aP" : 1,
